@@ -1,6 +1,11 @@
-[
-  {
-    "id": 1,
-    "title": "Kevin's first NFT"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
